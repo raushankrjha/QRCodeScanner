@@ -1,2 +1,2 @@
-"# flashlight" 
-"# QR Code Scanner Made With ZXING Library In Android" 
+
+"QR Code Scanner Made With ZXING Library In Android" 
